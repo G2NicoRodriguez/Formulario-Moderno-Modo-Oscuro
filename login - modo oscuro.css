@@ -19,6 +19,9 @@ body{
     width: 450px;
  
 }
+h3{
+    color: white;
+}
 
 .buttons{
     align-self: flex-start;
@@ -113,6 +116,7 @@ label {
 
 label span{
     font-weight: 700;
+    color: white;
 }
 
 .section-inputs label input{
